@@ -1,0 +1,18 @@
+{
+    "threat_actor": "Thrip",
+    "capability": [
+        "T1059",
+        "T1059.001",
+        "T1048",
+        "T1048.003",
+        "T1588",
+        "T1588.002",
+        "T1219"
+    ],
+    "resources": [
+        "S0261",
+        "S0002",
+        "S0029"
+    ],
+    "vulnerabilities": []
+}

@@ -1,0 +1,14 @@
+{
+    "threat_actor": "CURIUM",
+    "capability": [
+        "T1005",
+        "T1585",
+        "T1585.001",
+        "T1566",
+        "T1566.003",
+        "T1204",
+        "T1204.002"
+    ],
+    "resources": [],
+    "vulnerabilities": []
+}

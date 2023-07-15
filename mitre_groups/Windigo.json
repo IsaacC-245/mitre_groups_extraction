@@ -1,0 +1,16 @@
+{
+    "threat_actor": "Windigo",
+    "capability": [
+        "T1059",
+        "T1005",
+        "T1189",
+        "T1083",
+        "T1090",
+        "T1518",
+        "T1082"
+    ],
+    "resources": [
+        "S0377"
+    ],
+    "vulnerabilities": []
+}

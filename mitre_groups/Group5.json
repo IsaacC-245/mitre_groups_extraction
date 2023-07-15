@@ -1,0 +1,16 @@
+{
+    "threat_actor": "Group5",
+    "capability": [
+        "T1070",
+        "T1070.004",
+        "T1056",
+        "T1056.001",
+        "T1027",
+        "T1113"
+    ],
+    "resources": [
+        "S0336",
+        "S0385"
+    ],
+    "vulnerabilities": []
+}

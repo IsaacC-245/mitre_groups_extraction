@@ -1,0 +1,14 @@
+{
+    "threat_actor": "Equation",
+    "capability": [
+        "T1480",
+        "T1480.001",
+        "T1564",
+        "T1564.005",
+        "T1120",
+        "T1542",
+        "T1542.002"
+    ],
+    "resources": [],
+    "vulnerabilities": []
+}

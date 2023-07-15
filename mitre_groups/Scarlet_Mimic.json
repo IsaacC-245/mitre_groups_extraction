@@ -1,0 +1,14 @@
+{
+    "threat_actor": "Scarlet Mimic",
+    "capability": [
+        "T1036",
+        "T1036.002"
+    ],
+    "resources": [
+        "S0077",
+        "S0076",
+        "S0079",
+        "S0078"
+    ],
+    "vulnerabilities": []
+}

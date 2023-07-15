@@ -1,0 +1,11 @@
+{
+    "threat_actor": "Moafee",
+    "capability": [
+        "T1027",
+        "T1027.001"
+    ],
+    "resources": [
+        "S0012"
+    ],
+    "vulnerabilities": []
+}

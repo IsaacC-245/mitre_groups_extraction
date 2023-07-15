@@ -1,0 +1,8 @@
+{
+    "threat_actor": "Bouncing Golf",
+    "capability": [],
+    "resources": [
+        "S0421"
+    ],
+    "vulnerabilities": []
+}

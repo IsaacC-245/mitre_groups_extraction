@@ -1,0 +1,19 @@
+{
+    "threat_actor": "Putter Panda",
+    "capability": [
+        "T1547",
+        "T1547.001",
+        "T1562",
+        "T1562.001",
+        "T1027",
+        "T1055",
+        "T1055.001"
+    ],
+    "resources": [
+        "S0066",
+        "S0065",
+        "S0068",
+        "S0067"
+    ],
+    "vulnerabilities": []
+}

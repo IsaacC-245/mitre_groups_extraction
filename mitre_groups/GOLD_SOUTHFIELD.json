@@ -1,0 +1,22 @@
+{
+    "threat_actor": "GOLD SOUTHFIELD",
+    "capability": [
+        "T1059",
+        "T1059.001",
+        "T1190",
+        "T1133",
+        "T1027",
+        "T1027.010",
+        "T1566",
+        "T1219",
+        "T1113",
+        "T1195",
+        "T1195.002",
+        "T1199"
+    ],
+    "resources": [
+        "S0591",
+        "S0496"
+    ],
+    "vulnerabilities": []
+}

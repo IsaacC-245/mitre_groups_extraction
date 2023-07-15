@@ -1,0 +1,11 @@
+{
+    "threat_actor": "ALLANITE",
+    "capability": [
+        "T0817",
+        "T0852",
+        "T0865",
+        "T0859"
+    ],
+    "resources": [],
+    "vulnerabilities": []
+}

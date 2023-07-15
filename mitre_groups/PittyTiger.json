@@ -1,0 +1,16 @@
+{
+    "threat_actor": "PittyTiger",
+    "capability": [
+        "T1588",
+        "T1588.002",
+        "T1078"
+    ],
+    "resources": [
+        "S0032",
+        "S0008",
+        "S0010",
+        "S0002",
+        "S0012"
+    ],
+    "vulnerabilities": []
+}

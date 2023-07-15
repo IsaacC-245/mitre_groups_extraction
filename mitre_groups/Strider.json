@@ -1,0 +1,15 @@
+{
+    "threat_actor": "Strider",
+    "capability": [
+        "T1564",
+        "T1564.005",
+        "T1556",
+        "T1556.002",
+        "T1090",
+        "T1090.001"
+    ],
+    "resources": [
+        "S0125"
+    ],
+    "vulnerabilities": []
+}

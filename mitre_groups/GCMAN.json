@@ -1,0 +1,10 @@
+{
+    "threat_actor": "GCMAN",
+    "capability": [
+        "T1021",
+        "T1021.004",
+        "T1021.005"
+    ],
+    "resources": [],
+    "vulnerabilities": []
+}

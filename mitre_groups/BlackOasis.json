@@ -1,0 +1,8 @@
+{
+    "threat_actor": "BlackOasis",
+    "capability": [
+        "T1027"
+    ],
+    "resources": [],
+    "vulnerabilities": []
+}

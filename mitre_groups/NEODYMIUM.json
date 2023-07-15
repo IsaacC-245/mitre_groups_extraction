@@ -1,0 +1,8 @@
+{
+    "threat_actor": "NEODYMIUM",
+    "capability": [],
+    "resources": [
+        "S0176"
+    ],
+    "vulnerabilities": []
+}

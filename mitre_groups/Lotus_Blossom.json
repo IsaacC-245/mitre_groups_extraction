@@ -1,0 +1,9 @@
+{
+    "threat_actor": "Lotus Blossom",
+    "capability": [],
+    "resources": [
+        "S0081",
+        "S0082"
+    ],
+    "vulnerabilities": []
+}

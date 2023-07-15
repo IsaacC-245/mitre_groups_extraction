@@ -1,0 +1,17 @@
+{
+    "threat_actor": "Threat Group-1314",
+    "capability": [
+        "T1059",
+        "T1059.003",
+        "T1021",
+        "T1021.002",
+        "T1072",
+        "T1078",
+        "T1078.002"
+    ],
+    "resources": [
+        "S0039",
+        "S0029"
+    ],
+    "vulnerabilities": []
+}

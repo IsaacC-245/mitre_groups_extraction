@@ -1,0 +1,17 @@
+{
+    "threat_actor": "Mofang",
+    "capability": [
+        "T1027",
+        "T1566",
+        "T1566.001",
+        "T1566.002",
+        "T1204",
+        "T1204.001",
+        "T1204.002"
+    ],
+    "resources": [
+        "S0444",
+        "S0445"
+    ],
+    "vulnerabilities": []
+}

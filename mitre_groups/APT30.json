@@ -1,0 +1,17 @@
+{
+    "threat_actor": "APT30",
+    "capability": [
+        "T1566",
+        "T1566.001",
+        "T1204",
+        "T1204.002"
+    ],
+    "resources": [
+        "S0031",
+        "S0036",
+        "S0034",
+        "S0028",
+        "S0035"
+    ],
+    "vulnerabilities": []
+}

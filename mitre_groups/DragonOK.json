@@ -1,0 +1,9 @@
+{
+    "threat_actor": "DragonOK",
+    "capability": [],
+    "resources": [
+        "S0013",
+        "S0012"
+    ],
+    "vulnerabilities": []
+}

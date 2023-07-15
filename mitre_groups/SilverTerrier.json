@@ -1,0 +1,17 @@
+{
+    "threat_actor": "SilverTerrier",
+    "capability": [
+        "T1071",
+        "T1071.001",
+        "T1071.002",
+        "T1071.003"
+    ],
+    "resources": [
+        "S0331",
+        "S0334",
+        "S0447",
+        "S0336",
+        "S0198"
+    ],
+    "vulnerabilities": []
+}

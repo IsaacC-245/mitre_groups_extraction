@@ -1,0 +1,12 @@
+{
+    "threat_actor": "APT17",
+    "capability": [
+        "T1583",
+        "T1583.006",
+        "T1585"
+    ],
+    "resources": [
+        "S0069"
+    ],
+    "vulnerabilities": []
+}

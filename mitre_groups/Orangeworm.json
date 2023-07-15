@@ -1,0 +1,20 @@
+{
+    "threat_actor": "Orangeworm",
+    "capability": [
+        "T1071",
+        "T1071.001",
+        "T1021",
+        "T1021.002"
+    ],
+    "resources": [
+        "S0099",
+        "S0106",
+        "S0100",
+        "S0236",
+        "S0039",
+        "S0104",
+        "S0103",
+        "S0096"
+    ],
+    "vulnerabilities": []
+}

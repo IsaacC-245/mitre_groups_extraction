@@ -1,0 +1,20 @@
+{
+    "threat_actor": "Ajax Security Team",
+    "capability": [
+        "T1555",
+        "T1555.003",
+        "T1105",
+        "T1056",
+        "T1056.001",
+        "T1566",
+        "T1566.001",
+        "T1566.003",
+        "T1204",
+        "T1204.002"
+    ],
+    "resources": [
+        "S0224",
+        "S0225"
+    ],
+    "vulnerabilities": []
+}

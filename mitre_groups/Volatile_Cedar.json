@@ -1,0 +1,17 @@
+{
+    "threat_actor": "Volatile Cedar",
+    "capability": [
+        "T1595",
+        "T1595.002",
+        "T1595.003",
+        "T1190",
+        "T1105",
+        "T1505",
+        "T1505.003"
+    ],
+    "resources": [
+        "S0572",
+        "S0569"
+    ],
+    "vulnerabilities": []
+}
