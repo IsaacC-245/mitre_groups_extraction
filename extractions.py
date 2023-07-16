@@ -13,9 +13,6 @@ def mitre_urls():
     # Create a BeautifulSoup object to parse the HTML content
     soup = BeautifulSoup(response.content, "html.parser")
 
-    # Find the side navigation element
-    side_nav = soup.select_one("#v-tab > div.side-nav-desktop-view.h-100 > div > div.sidenav-list")
-
     # Find all links to the group pages in the side navigation
     group_links = side_nav.select("div.sidenav-head > a[href^='/groups/G']")
 
