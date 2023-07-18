@@ -1,0 +1,16 @@
+{
+    "group_name": "Lotus Blossom",
+    "group_description": "",
+    "group_id": "G0030",
+    "associated_groups": [
+        ": DRAGONFISH",
+        "Spring Dragon"
+    ],
+    "contributors": [],
+    "version": ": 2.0",
+    "created_date": "31 May 2017",
+    "last_modified_date": "25 March 2019",
+    "description": [
+        "Lotus Blossomis a threat group that has targeted government and military organizations in Southeast Asia.[1]"
+    ]
+}

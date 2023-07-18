@@ -1,0 +1,15 @@
+{
+    "group_name": "APT17",
+    "group_description": "",
+    "group_id": "G0025",
+    "associated_groups": [
+        ": Deputy Dog"
+    ],
+    "contributors": [],
+    "version": ": 1.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "13 October 2020",
+    "description": [
+        "APT17is a China-based threat group that has conducted network intrusions against U.S. government entities, the defense industry, law firms, information technology companies, mining companies, and non-government organizations.[1]"
+    ]
+}

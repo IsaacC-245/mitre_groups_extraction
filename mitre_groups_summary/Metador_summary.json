@@ -1,0 +1,16 @@
+{
+    "group_name": "Metador",
+    "group_description": "",
+    "group_id": "G1013",
+    "associated_groups": [],
+    "contributors": [
+        ": Massimiliano Romano, BT Security",
+        "Sittikorn Sangrattanapitak"
+    ],
+    "version": ": 1.0",
+    "created_date": "25 January 2023",
+    "last_modified_date": "14 April 2023",
+    "description": [
+        "Metadoris a suspected cyber espionage group that was first reported in September 2022.Metadorhas targeted a limited number of telecommunication companies, internet service providers, and universities in the Middle East and Africa. Security researchers named the groupMetadorbased on the \"I am meta\" string in one of the group's malware samples and the expectation of Spanish-language responses from C2 servers.[1]"
+    ]
+}

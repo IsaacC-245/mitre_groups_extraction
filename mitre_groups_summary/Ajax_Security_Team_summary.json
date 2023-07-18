@@ -1,0 +1,19 @@
+{
+    "group_name": "Ajax Security Team",
+    "group_description": "",
+    "group_id": "G0130",
+    "associated_groups": [
+        ": Operation Woolen-Goldfish",
+        "AjaxTM",
+        "Rocket Kitten",
+        "Flying Kitten",
+        "Operation Saffron Rose"
+    ],
+    "contributors": [],
+    "version": ": 1.0",
+    "created_date": "14 April 2021",
+    "last_modified_date": "17 December 2021",
+    "description": [
+        "Ajax Security Teamis a group that has been active since at least 2010 and believed to be operating out of Iran. By 2014Ajax Security Teamtransitioned from website defacement operations to malware-based cyber espionage campaigns targeting the US defense industrial base and Iranian users of anti-censorship technologies.[1]"
+    ]
+}

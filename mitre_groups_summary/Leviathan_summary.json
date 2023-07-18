@@ -1,0 +1,23 @@
+{
+    "group_name": "Leviathan",
+    "group_description": "",
+    "group_id": "G0065",
+    "associated_groups": [
+        ": MUDCARP",
+        "Kryptonite Panda",
+        "Gadolinium",
+        "BRONZE MOHAWK",
+        "TEMP.Jumper",
+        "APT40",
+        "TEMP.Periscope"
+    ],
+    "contributors": [
+        ": Valerii Marchuk, Cybersecurity Help s.r.o."
+    ],
+    "version": ": 3.0",
+    "created_date": "18 April 2018",
+    "last_modified_date": "15 April 2022",
+    "description": [
+        "Leviathanis a Chinese state-sponsored cyber espionage group that has been attributed to the Ministry of State Security's (MSS) Hainan State Security Department and an affiliated front company.[1]Active since at least 2009,Leviathanhas targeted the following sectors: academia, aerospace/aviation, biomedical, defense industrial base, government, healthcare, manufacturing, maritime, and transportation across the US, Canada, Europe, the Middle East, and Southeast Asia.[1][2][3]"
+    ]
+}

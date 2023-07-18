@@ -1,0 +1,17 @@
+{
+    "group_name": "APT18",
+    "group_description": "",
+    "group_id": "G0026",
+    "associated_groups": [
+        ": TG-0416",
+        "Dynamite Panda",
+        "Threat Group-0416"
+    ],
+    "contributors": [],
+    "version": ": 2.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "30 March 2020",
+    "description": [
+        "APT18is a threat group that has operated since at least 2009 and has targeted a range of industries, including technology, manufacturing, human rights groups, government, and medical.[1]"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "group_name": "menuPass",
+    "group_description": "",
+    "group_id": "G0045",
+    "associated_groups": [
+        ": Cicada",
+        "POTASSIUM",
+        "Stone Panda",
+        "APT10",
+        "Red Apollo",
+        "CVNX",
+        "HOGFISH"
+    ],
+    "contributors": [
+        ": Edward Millington",
+        "Michael Cox"
+    ],
+    "version": ": 2.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "23 March 2023",
+    "description": [
+        "menuPassis a threat group that has been active since at least 2006. Individual members ofmenuPassare known to have acted in association with the Chinese Ministry of State Security's (MSS) Tianjin State Security Bureau and worked for the Huaying Haitai Science and Technology Development Company.[1][2]",
+        "menuPasshas targeted healthcare, defense, aerospace, finance, maritime, biotechnology, energy, and government sectors globally, with an emphasis on Japanese organizations. In 2016 and 2017, the group is known to have targeted managed IT service providers (MSPs), manufacturing and mining companies, and a university.[3][4][5][6][7][1][2]"
+    ]
+}

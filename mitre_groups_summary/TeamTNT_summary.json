@@ -1,0 +1,16 @@
+{
+    "group_name": "TeamTNT",
+    "group_description": "",
+    "group_id": "G0139",
+    "associated_groups": [],
+    "contributors": [
+        ": Will Thomas, Cyjax",
+        "Darin Smith, Cisco"
+    ],
+    "version": ": 1.2",
+    "created_date": "01 October 2021",
+    "last_modified_date": "19 October 2022",
+    "description": [
+        "TeamTNTis a threat group that has primarily targeted cloud and containerized environments. The group as been active since at least October 2019 and has mainly focused its efforts on leveraging cloud and container resources to deploy cryptocurrency miners in victim environments.[1][2][3][4][5][6][7][8][9]"
+    ]
+}

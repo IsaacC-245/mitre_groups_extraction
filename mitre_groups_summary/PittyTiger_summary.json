@@ -1,0 +1,13 @@
+{
+    "group_name": "PittyTiger",
+    "group_description": "",
+    "group_id": "G0011",
+    "associated_groups": [],
+    "contributors": [],
+    "version": ": 1.2",
+    "created_date": "31 May 2017",
+    "last_modified_date": "12 October 2021",
+    "description": [
+        "PittyTigeris a threat group believed to operate out of China that uses multiple different types of malware to maintain command and control.[1][2]"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "group_name": "Carbanak",
+    "group_description": "",
+    "group_id": "G0008",
+    "associated_groups": [
+        ": Anunak"
+    ],
+    "contributors": [
+        ": Anastasios Pingios"
+    ],
+    "version": ": 2.0",
+    "created_date": "31 May 2017",
+    "last_modified_date": "18 October 2021",
+    "description": [
+        "Carbanakis a cybercriminal group that has usedCarbanakmalware to target financial institutions since at least 2013.Carbanakmay be linked to groups tracked separately asCobalt GroupandFIN7that have also usedCarbanakmalware.[1][2][3][4][5]"
+    ]
+}

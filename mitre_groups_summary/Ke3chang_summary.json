@@ -1,0 +1,25 @@
+{
+    "group_name": "Ke3chang",
+    "group_description": "",
+    "group_id": "G0004",
+    "associated_groups": [
+        ": APT15",
+        "Mirage",
+        "Vixen Panda",
+        "GREF",
+        "Playful Dragon",
+        "RoyalAPT",
+        "NICKEL"
+    ],
+    "contributors": [
+        ": Pooja Natarajan, NEC Corporation India",
+        "Manikantan Srinivasan, NEC Corporation India",
+        "Hiroki Nagahama, NEC Corporation"
+    ],
+    "version": ": 2.0",
+    "created_date": "31 May 2017",
+    "last_modified_date": "22 July 2022",
+    "description": [
+        "Ke3changis a threat group attributed to actors operating out of China.Ke3changhas targeted oil, government, diplomatic, military, and NGOs in Central and South America, the Caribbean, Europe, and North America since at least 2010.[1][2][3][4]"
+    ]
+}

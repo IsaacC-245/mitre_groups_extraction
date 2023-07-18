@@ -1,0 +1,19 @@
+{
+    "group_name": "APT38",
+    "group_description": "",
+    "group_id": "G0082",
+    "associated_groups": [
+        ": NICKEL GLADSTONE",
+        "BeagleBoyz",
+        "Bluenoroff",
+        "Stardust Chollima"
+    ],
+    "contributors": [],
+    "version": ": 2.0",
+    "created_date": "29 January 2019",
+    "last_modified_date": "18 January 2022",
+    "description": [
+        "APT38is a North Korean state-sponsored threat group that specializes in financial cyber operations; it has been attributed to the Reconnaissance General Bureau.[1]Active since at least 2014,APT38has targeted banks, financial institutions, casinos, cryptocurrency exchanges, SWIFT system endpoints, and ATMs in at least 38 countries worldwide. Significant operations include the 2016 Bank of Bangladesh heist, during whichAPT38stole $81 million, as well as attacks against Bancomext (2018) and Banco de Chile (2018); some of their attacks have been destructive.[1][2][3][4]",
+        "North Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the nameLazarus Groupinstead of tracking clusters or subgroups."
+    ]
+}

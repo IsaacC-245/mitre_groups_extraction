@@ -1,0 +1,21 @@
+{
+    "group_name": "HAFNIUM",
+    "group_description": "",
+    "group_id": "G0125",
+    "associated_groups": [
+        ": Operation Exchange Marauder"
+    ],
+    "contributors": [
+        ": Daniyal Naeem, BT Security",
+        "Matt Brenton, Zurich Insurance Group",
+        "Mayuresh Dani, Qualys",
+        "Harshal Tupsamudre, Qualys",
+        "Vinayak Wadhwa, SAFE Security"
+    ],
+    "version": ": 1.3",
+    "created_date": "03 March 2021",
+    "last_modified_date": "10 April 2023",
+    "description": [
+        "HAFNIUMis a likely state-sponsored cyber espionage group operating out of China that has been active since at least January 2021.HAFNIUMprimarily targets entities in the US across a number of industry sectors, including infectious disease researchers, law firms, higher education institutions, defense contractors, policy think tanks, and NGOs.[1][2]"
+    ]
+}

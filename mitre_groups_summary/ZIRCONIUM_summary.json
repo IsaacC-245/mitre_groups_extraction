@@ -1,0 +1,15 @@
+{
+    "group_name": "ZIRCONIUM",
+    "group_description": "",
+    "group_id": "G0128",
+    "associated_groups": [
+        ": APT31"
+    ],
+    "contributors": [],
+    "version": ": 1.1",
+    "created_date": "24 March 2021",
+    "last_modified_date": "22 March 2023",
+    "description": [
+        "ZIRCONIUMis a threat group operating out of China, active since at least 2017, that has targeted individuals associated with the 2020 US presidential election and prominent leaders in the international affairs community.[1][2]"
+    ]
+}

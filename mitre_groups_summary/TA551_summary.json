@@ -1,0 +1,22 @@
+{
+    "group_name": "TA551",
+    "group_description": "",
+    "group_id": "G0127",
+    "associated_groups": [
+        ": GOLD CABIN",
+        "Shathak"
+    ],
+    "contributors": [
+        ": Shuhei Sasada, Cyber Defense Institute, Inc",
+        "Ryo Tamura, SecureBrain Corporation",
+        "Shotaro Hamamoto, NEC Solution Innovators, Ltd",
+        "Yusuke Niwa, ITOCHU Corporation",
+        "Takuma Matsumoto, LAC Co., Ltd"
+    ],
+    "version": ": 1.2",
+    "created_date": "19 March 2021",
+    "last_modified_date": "22 March 2023",
+    "description": [
+        "TA551is a financially-motivated threat group that has been active since at least 2018.[1]The group has primarily targeted English, German, Italian, and Japanese speakers through email-based malware distribution campaigns.[2]"
+    ]
+}

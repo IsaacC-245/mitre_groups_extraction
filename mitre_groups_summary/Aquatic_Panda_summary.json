@@ -1,0 +1,18 @@
+{
+    "group_name": "Aquatic Panda",
+    "group_description": "",
+    "group_id": "G0143",
+    "associated_groups": [],
+    "contributors": [
+        ": NST Assure Research Team, NetSentries Technologies",
+        "Pooja Natarajan, NEC Corporation India",
+        "Hiroki Nagahama, NEC Corporation",
+        "Manikantan Srinivasan, NEC Corporation India"
+    ],
+    "version": ": 1.1",
+    "created_date": "18 January 2022",
+    "last_modified_date": "21 March 2023",
+    "description": [
+        "Aquatic Pandais a suspected China-based threat group with a dual mission of intelligence collection and industrial espionage. Active since at least May 2020,Aquatic Pandahas primarily targeted entities in the telecommunications, technology, and government sectors.[1]"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "group_name": "DragonOK",
+    "group_description": "",
+    "group_id": "G0017",
+    "associated_groups": [],
+    "contributors": [],
+    "version": ": 1.0",
+    "created_date": "31 May 2017",
+    "last_modified_date": "22 March 2019",
+    "description": [
+        "DragonOKis a threat group that has targeted Japanese organizations with phishing emails. Due to overlapping TTPs, including similar custom tools,DragonOKis thought to have a direct or indirect relationship with the threat groupMoafee.[1]It is known to use a variety of malware, including Sysget/HelloBridge, PlugX, PoisonIvy, FormerFirstRat, NFlog, and NewCT.[2]"
+    ]
+}

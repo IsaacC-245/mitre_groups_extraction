@@ -1,0 +1,17 @@
+{
+    "group_name": "Ferocious Kitten",
+    "group_description": "",
+    "group_id": "G0137",
+    "associated_groups": [],
+    "contributors": [
+        ": Pooja Natarajan, NEC Corporation India",
+        "Manikantan Srinivasan, NEC Corporation India",
+        "Hiroki Nagahama, NEC Corporation"
+    ],
+    "version": ": 1.0",
+    "created_date": "28 September 2021",
+    "last_modified_date": "25 October 2021",
+    "description": [
+        "Ferocious Kittenis a threat group that has primarily targeted Persian-speaking individuals in Iran since at least 2015.[1]"
+    ]
+}

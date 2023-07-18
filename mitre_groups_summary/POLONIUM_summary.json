@@ -1,0 +1,13 @@
+{
+    "group_name": "POLONIUM",
+    "group_description": "",
+    "group_id": "G1005",
+    "associated_groups": [],
+    "contributors": [],
+    "version": ": 1.0",
+    "created_date": "01 July 2022",
+    "last_modified_date": "10 August 2022",
+    "description": [
+        "POLONIUMis a Lebanon-based group that has primarily targeted Israeli organizations, including critical manufacturing, information technology, and defense industry companies, since at least February 2022. Security researchers assessPOLONIUMhas coordinated their operations with multiple actors affiliated with Iran\u2019s Ministry of Intelligence and Security (MOIS), based on victim overlap as well as common techniques and tooling.[1]"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "group_name": "APT12",
+    "group_description": "",
+    "group_id": "G0005",
+    "associated_groups": [
+        ": IXESHE",
+        "DynCalc",
+        "Numbered Panda",
+        "DNSCALC"
+    ],
+    "contributors": [],
+    "version": ": 2.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "30 March 2020",
+    "description": [
+        "APT12is a threat group that has been attributed to China. The group has targeted a variety of victims including but not limited to media outlets, high-tech companies, and multiple governments.[1]"
+    ]
+}

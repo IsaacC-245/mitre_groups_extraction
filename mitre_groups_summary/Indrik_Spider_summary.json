@@ -1,0 +1,15 @@
+{
+    "group_name": "Indrik Spider",
+    "group_description": "",
+    "group_id": "G0119",
+    "associated_groups": [
+        ": Evil Corp"
+    ],
+    "contributors": [],
+    "version": ": 2.1",
+    "created_date": "06 January 2021",
+    "last_modified_date": "15 September 2022",
+    "description": [
+        "Indrik Spideris a Russia-based cybercriminal group that has been active since at least 2014.Indrik Spiderinitially started with theDridexbanking Trojan, and then by 2017 they began running ransomware operations usingBitPaymer,WastedLocker, and Hades ransomware.[1][2][3]"
+    ]
+}

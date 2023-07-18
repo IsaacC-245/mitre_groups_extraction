@@ -1,0 +1,19 @@
+{
+    "group_name": "Elderwood",
+    "group_description": "",
+    "group_id": "G0066",
+    "associated_groups": [
+        ": Elderwood Gang",
+        "Beijing Group",
+        "Sneaky Panda"
+    ],
+    "contributors": [
+        ": Valerii Marchuk, Cybersecurity Help s.r.o."
+    ],
+    "version": ": 1.2",
+    "created_date": "18 April 2018",
+    "last_modified_date": "02 March 2021",
+    "description": [
+        "Elderwoodis a suspected Chinese cyber espionage group that was reportedly responsible for the 2009 Google intrusion known as Operation Aurora.[1]The group has targeted defense organizations, supply chain manufacturers, human rights and nongovernmental organizations (NGOs), and IT service providers.[2][3]"
+    ]
+}

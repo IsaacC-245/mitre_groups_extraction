@@ -1,0 +1,13 @@
+{
+    "group_name": "APT30",
+    "group_description": "",
+    "group_id": "G0013",
+    "associated_groups": [],
+    "contributors": [],
+    "version": ": 1.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "29 July 2020",
+    "description": [
+        "APT30is a threat group suspected to be associated with the Chinese government. WhileNaikonshares some characteristics withAPT30, the two groups do not appear to be exact matches.[1][2]"
+    ]
+}

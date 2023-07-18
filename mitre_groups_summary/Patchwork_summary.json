@@ -1,0 +1,19 @@
+{
+    "group_name": "Patchwork",
+    "group_description": "",
+    "group_id": "G0040",
+    "associated_groups": [
+        ": Hangover Group",
+        "Dropping Elephant",
+        "Chinastrats",
+        "MONSOON",
+        "Operation Hangover"
+    ],
+    "contributors": [],
+    "version": ": 1.5",
+    "created_date": "31 May 2017",
+    "last_modified_date": "22 March 2023",
+    "description": [
+        "Patchworkis a cyber espionage group that was first observed in December 2015. While the group has not been definitively attributed, circumstantial evidence suggests the group may be a pro-Indian or Indian entity.Patchworkhas been seen targeting industries related to diplomatic and government agencies. Much of the code used by this group was copied and pasted from online forums.Patchworkwas also seen operating spearphishing campaigns targeting U.S. think tank groups in March and April of 2018.[1][2][3][4]"
+    ]
+}

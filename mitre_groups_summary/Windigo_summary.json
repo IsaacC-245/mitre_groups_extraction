@@ -1,0 +1,13 @@
+{
+    "group_name": "Windigo",
+    "group_description": "",
+    "group_id": "G0124",
+    "associated_groups": [],
+    "contributors": [],
+    "version": ": 1.0",
+    "created_date": "10 February 2021",
+    "last_modified_date": "26 April 2021",
+    "description": [
+        "TheWindigogroup has been operating since at least 2011, compromising thousands of Linux and Unix servers using theEburySSH backdoor to create a spam botnet. Despite law enforcement intervention against the creators,Windigooperators continued updatingEburythrough 2019.[1][2]"
+    ]
+}

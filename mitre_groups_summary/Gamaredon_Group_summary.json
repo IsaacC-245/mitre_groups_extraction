@@ -1,0 +1,24 @@
+{
+    "group_name": "Gamaredon Group",
+    "group_description": "",
+    "group_id": "G0047",
+    "associated_groups": [
+        ": IRON TILDEN",
+        "Primitive Bear",
+        "ACTINIUM",
+        "Armageddon",
+        "Shuckworm",
+        "DEV-0157"
+    ],
+    "contributors": [
+        ": ESET",
+        "Trend Micro Incorporated"
+    ],
+    "version": ": 2.1",
+    "created_date": "31 May 2017",
+    "last_modified_date": "22 March 2023",
+    "description": [
+        "Gamaredon Groupis a suspected Russian cyber espionage threat group that has targeted military, NGO, judiciary, law enforcement, and non-profit organizations in Ukraine since at least 2013. The nameGamaredon Groupcomes from a misspelling of the word \"Armageddon\", which was detected in the adversary's early campaigns.[1][2][3][4][5]",
+        "In November 2021, the Ukrainian government publicly attributedGamaredon Groupto Russia's Federal Security Service (FSB) Center 18.[6][5]"
+    ]
+}

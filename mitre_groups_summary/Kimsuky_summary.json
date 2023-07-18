@@ -1,0 +1,23 @@
+{
+    "group_name": "Kimsuky",
+    "group_description": "",
+    "group_id": "G0094",
+    "associated_groups": [
+        ": STOLEN PENCIL",
+        "Thallium",
+        "Black Banshee",
+        "Velvet Chollima"
+    ],
+    "contributors": [
+        ": Taewoo Lee, KISA",
+        "Dongwook Kim, KISA"
+    ],
+    "version": ": 3.1",
+    "created_date": "26 August 2019",
+    "last_modified_date": "30 November 2022",
+    "description": [
+        "Kimsukyis a North Korea-based cyber espionage group that has been active since at least 2012. The group initially focused on targeting South Korean government entities, think tanks, and individuals identified as experts in various fields, and expanded its operations to include the United States, Russia, Europe, and the UN.Kimsukyhas focused its intelligence collection activities on foreign policy and national security issues related to the Korean peninsula, nuclear policy, and sanctions.[1][2][3][4][5]",
+        "Kimsukywas assessed to be responsible for the 2014 Korea Hydro & Nuclear Power Co. compromise; other notable campaigns include Operation STOLEN PENCIL (2018), Operation Kabar Cobra (2019), and Operation Smoke Screen (2019).[6][7][8]",
+        "North Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the nameLazarus Groupinstead of tracking clusters or subgroups."
+    ]
+}

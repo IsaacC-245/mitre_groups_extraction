@@ -1,0 +1,33 @@
+{
+    "group_name": "APT29",
+    "group_description": "",
+    "group_id": "G0016",
+    "associated_groups": [
+        ": IRON RITUAL",
+        "IRON HEMLOCK",
+        "NobleBaron",
+        "Dark Halo",
+        "StellarParticle",
+        "NOBELIUM",
+        "UNC2452",
+        "YTTRIUM",
+        "The Dukes",
+        "Cozy Bear",
+        "CozyDuke",
+        "SolarStorm",
+        "Blue Kitsune"
+    ],
+    "contributors": [
+        ": Daniyal Naeem, BT Security",
+        "Matt Brenton, Zurich Insurance Group",
+        "Katie Nickels, Red Canary",
+        "Joe Gumke, U.S. Bank"
+    ],
+    "version": ": 4.0",
+    "created_date": "31 May 2017",
+    "last_modified_date": "16 April 2023",
+    "description": [
+        "APT29is threat group that has been attributed to Russia's Foreign Intelligence Service (SVR).[1][2]They have operated since at least 2008, often targeting government networks in Europe and NATO member countries, research institutes, and think tanks.APT29reportedly compromised the Democratic National Committee starting in the summer of 2015.[3][4][5][6]",
+        "In April 2021, the US and UK governments attributed theSolarWinds Compromiseto the SVR; public statements included citations toAPT29, Cozy Bear, and The Dukes.[7][8]Industry reporting also referred to the actors involved in this campaign as UNC2452, NOBELIUM, StellarParticle, Dark Halo, and SolarStorm.[9][10][11][12][13][14]"
+    ]
+}
