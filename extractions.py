@@ -1,25 +1,18 @@
-import requests
 import re
+
+import requests
 from bs4 import BeautifulSoup
 
 
 def mitre_urls():
-    # URL of the MITRE ATT&CK groups page
     url = "https://attack.mitre.org/groups/"
 
-    # Send a GET request to the webpage
     response = requests.get(url)
-
-    # Create a BeautifulSoup object to parse the HTML content
     soup = BeautifulSoup(response.content, "html.parser")
 
-    # Find the side navigation element
     side_nav = soup.select_one("#v-tab > div.side-nav-desktop-view.h-100 > div > div.sidenav-list")
-    
-    # Find all links to the group pages in the side navigation
     group_links = side_nav.select("div.sidenav-head > a[href^='/groups/G']")
 
-    # Extract the URLs and return the list
     url_list = []
     for link in group_links:
         group_url = "https://attack.mitre.org" + link["href"]
@@ -81,3 +74,43 @@ def software(soup):
         return []
 
     return resources
+
+
+def apt_summary(soup):
+    info = {}
+
+    group_name = soup.select_one("h1").text.strip()
+    group_description_element = soup.select_one("div.main-content > p")
+    group_description = group_description_element.text.strip() if group_description_element else ""
+    info["group_name"] = group_name
+    info["group_description"] = group_description
+
+    group_id = soup.select_one(".card-title:contains('ID:')").next_sibling.strip()
+    info["group_id"] = group_id
+
+    associated_groups_element = soup.select_one(".card-title:contains('Associated Groups')")
+    if associated_groups_element:
+        associated_groups = associated_groups_element.next_sibling.strip()
+        info["associated_groups"] = [group.strip() for group in associated_groups.split(',')]
+    else:
+        info["associated_groups"] = []
+
+    contributors_element = soup.select_one(".card-title:contains('Contributors')")
+    if contributors_element:
+        contributors = contributors_element.next_sibling.strip()
+        info["contributors"] = [contributor.strip() for contributor in contributors.split(';')]
+    else:
+        info["contributors"] = []
+
+    version = soup.select_one(".card-title:contains('Version')").next_sibling.strip()
+    created_date = soup.select_one(".card-title:contains('Created:')").next_sibling.strip()
+    last_modified_date = soup.select_one(".card-title:contains('Last Modified:')").next_sibling.strip()
+    info["version"] = version
+    info["created_date"] = created_date
+    info["last_modified_date"] = last_modified_date
+
+    # Extract all the paragraphs within the "description-body" class
+    paragraphs = soup.select(".description-body > p")
+    info["description"] = [p.get_text(strip=True) for p in paragraphs]
+
+    return info

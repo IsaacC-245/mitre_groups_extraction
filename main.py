@@ -1,18 +1,20 @@
-from bs4 import BeautifulSoup
-import requests
-import os
 import json
-from extractions import mitre_urls, techniques, vulnerabilities, software
+import os
 
-# URL of the MITRE ATT&CK groups page
+import requests
+from bs4 import BeautifulSoup
+
+from extractions import mitre_urls, techniques, vulnerabilities, software, apt_summary
+
 url_list = mitre_urls()
 
-# Create a folder to store the JSON files
 output_folder = "mitre_groups"
+summary_folder = "mitre_groups_summary"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
+if not os.path.exists(summary_folder):
+    os.makedirs(summary_folder)
 
-# Iterate over each group link and extract information from the group page
 for index, link in enumerate(url_list, start=1):
     response = requests.get(link)
     soup = BeautifulSoup(response.content, "html.parser")
@@ -37,3 +39,13 @@ for index, link in enumerate(url_list, start=1):
         json.dump(group_data, file, indent=4)
 
     print(f"APT data saved: {filepath}")
+
+    group_description = apt_summary(soup)
+
+    summary_filename = f"{group_name.replace(' ', '_')}_summary.json"
+    summary_filepath = os.path.join(summary_folder, summary_filename)
+
+    with open(summary_filepath, "w") as summary_file:
+        json.dump(group_description, summary_file, indent=4)
+
+    print(f"APT summary saved to: {summary_filepath}")
