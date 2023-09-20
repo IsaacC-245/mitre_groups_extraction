@@ -1,5 +1,20 @@
 {
     "threat_actor": "APT39",
+    "group_id": "G0087",
+    "associated_groups": {
+        "associated_groups": [
+            ": ITG07",
+            "Chafer",
+            "Remix Kitten"
+        ]
+    },
+    "apt_description": [
+        "APT39is one of several names for cyber espionage activity conducted by the Iranian Ministry of Intelligence and Security (MOIS) through the front company Rana Intelligence Computing since at least 2014.APT39has primarily targeted the travel, hospitality, academic, and telecommunications industries in Iran and across Asia, Africa, Europe, and North America to track individuals and entities considered to be a threat by the MOIS.[1][2][3][4][5]"
+    ],
+    "version_data": {
+        "created_date": "19 February 2019",
+        "last_modified_date": "02 September 2022"
+    },
     "capability": [
         "T1071",
         "T1071.001",

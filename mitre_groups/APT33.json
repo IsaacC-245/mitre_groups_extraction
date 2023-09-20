@@ -1,5 +1,19 @@
 {
     "threat_actor": "APT33",
+    "group_id": "G0064",
+    "associated_groups": {
+        "associated_groups": [
+            ": HOLMIUM",
+            "Elfin"
+        ]
+    },
+    "apt_description": [
+        "APT33is a suspected Iranian threat group that has carried out operations since at least 2013. The group has targeted organizations across multiple industries in the United States, Saudi Arabia, and South Korea, with a particular interest in the aviation and energy sectors.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "18 April 2018",
+        "last_modified_date": "08 March 2023"
+    },
     "capability": [
         "T1071",
         "T1071.001",

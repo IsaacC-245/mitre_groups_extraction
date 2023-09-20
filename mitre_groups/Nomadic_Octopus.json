@@ -1,5 +1,18 @@
 {
     "threat_actor": "Nomadic Octopus",
+    "group_id": "G0133",
+    "associated_groups": {
+        "associated_groups": [
+            ": DustSquad"
+        ]
+    },
+    "apt_description": [
+        "Nomadic Octopusis a Russian-speaking cyber espionage threat group that has primarily targeted Central Asia, including local governments, diplomatic missions, and individuals, since at least 2014.Nomadic Octopushas been observed conducting campaigns involving Android and Windows malware, mainly using the Delphi programming language, and building custom variants.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "24 August 2021",
+        "last_modified_date": "02 September 2022"
+    },
     "capability": [
         "T1059",
         "T1059.001",

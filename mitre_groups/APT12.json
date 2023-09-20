@@ -1,5 +1,21 @@
 {
     "threat_actor": "APT12",
+    "group_id": "G0005",
+    "associated_groups": {
+        "associated_groups": [
+            ": IXESHE",
+            "DynCalc",
+            "Numbered Panda",
+            "DNSCALC"
+        ]
+    },
+    "apt_description": [
+        "APT12is a threat group that has been attributed to China. The group has targeted a variety of victims including but not limited to media outlets, high-tech companies, and multiple governments.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1568",
         "T1568.003",

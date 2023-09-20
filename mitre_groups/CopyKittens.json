@@ -1,5 +1,16 @@
 {
     "threat_actor": "CopyKittens",
+    "group_id": "G0052",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "CopyKittensis an Iranian cyber espionage group that has been operating since at least 2013. It has targeted countries including Israel, Saudi Arabia, Turkey, the U.S., Jordan, and Germany. The group is responsible for the campaign known as Operation Wilted Tulip.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "16 January 2018",
+        "last_modified_date": "08 August 2022"
+    },
     "capability": [
         "T1560",
         "T1560.001",

@@ -1,5 +1,18 @@
 {
     "threat_actor": "LAPSUS$",
+    "group_id": "G1004",
+    "associated_groups": {
+        "associated_groups": [
+            ": DEV-0537"
+        ]
+    },
+    "apt_description": [
+        "LAPSUS$is cyber criminal threat group that has been active since at least mid-2021.LAPSUS$specializes in large-scale social engineering and extortion operations, including destructive attacks without the use of ransomware. The group has targeted organizations globally, including in the government, manufacturing, higher education, energy, healthcare, technology, telecommunications, and media sectors.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "09 June 2022",
+        "last_modified_date": "11 April 2023"
+    },
     "capability": [
         "T1531",
         "T1087",

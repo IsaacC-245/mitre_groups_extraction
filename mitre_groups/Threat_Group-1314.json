@@ -1,5 +1,18 @@
 {
     "threat_actor": "Threat Group-1314",
+    "group_id": "G0028",
+    "associated_groups": {
+        "associated_groups": [
+            ": TG-1314"
+        ]
+    },
+    "apt_description": [
+        "Threat Group-1314is an unattributed threat group that has used compromised credentials to log into a victim's remote access infrastructure.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "19 March 2020"
+    },
     "capability": [
         "T1059",
         "T1059.003",

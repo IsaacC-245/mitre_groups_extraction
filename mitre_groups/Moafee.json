@@ -1,5 +1,16 @@
 {
     "threat_actor": "Moafee",
+    "group_id": "G0002",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Moafeeis a threat group that appears to operate from the Guandong Province of China. Due to overlapping TTPs, including similar custom tools, Moafee is thought to have a direct or indirect relationship with the threat groupDragonOK.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1027",
         "T1027.001"

@@ -1,5 +1,16 @@
 {
     "threat_actor": "Suckfly",
+    "group_id": "G0039",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Suckflyis a China-based threat group that has been active since at least 2014.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "15 April 2022"
+    },
     "capability": [
         "T1059",
         "T1059.003",

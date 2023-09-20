@@ -1,5 +1,16 @@
 {
     "threat_actor": "FIN8",
+    "group_id": "G0061",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "FIN8is a financially motivated threat group known to launch tailored spearphishing campaigns targeting the retail, restaurant, and hospitality industries.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "18 April 2018",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1134",
         "T1134.001",

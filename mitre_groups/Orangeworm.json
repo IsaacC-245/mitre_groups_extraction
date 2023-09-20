@@ -1,5 +1,16 @@
 {
     "threat_actor": "Orangeworm",
+    "group_id": "G0071",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Orangewormis a group that has targeted organizations in the healthcare sector in the United States, Europe, and Asia since at least 2015, likely for the purpose of corporate espionage.[1]"
+    ],
+    "version_data": {
+        "created_date": "17 October 2018",
+        "last_modified_date": "26 October 2021"
+    },
     "capability": [
         "T1071",
         "T1071.001",

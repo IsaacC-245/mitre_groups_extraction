@@ -1,5 +1,16 @@
 {
     "threat_actor": "Dark Caracal",
+    "group_id": "G0070",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Dark Caracalis threat group that has been attributed to the Lebanese General Directorate of General Security (GDGS) and has operated since at least 2012.[1]"
+    ],
+    "version_data": {
+        "created_date": "17 October 2018",
+        "last_modified_date": "11 October 2021"
+    },
     "capability": [
         "T1071",
         "T1071.001",

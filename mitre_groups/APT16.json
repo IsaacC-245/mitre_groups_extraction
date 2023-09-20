@@ -1,5 +1,16 @@
 {
     "threat_actor": "APT16",
+    "group_id": "G0023",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "APT16is a China-based threat group that has launched spearphishing campaigns targeting Japanese and Taiwanese organizations.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "26 July 2022"
+    },
     "capability": [
         "T1584",
         "T1584.004"

@@ -1,5 +1,16 @@
 {
     "threat_actor": "Equation",
+    "group_id": "G0020",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Equationis a sophisticated threat group that employs multiple remote access tools. The group is known to use zero-day exploits and has developed the capability to overwrite the firmware of hard disk drives.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "29 June 2020"
+    },
     "capability": [
         "T1480",
         "T1480.001",

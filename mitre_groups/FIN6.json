@@ -1,5 +1,20 @@
 {
     "threat_actor": "FIN6",
+    "group_id": "G0037",
+    "associated_groups": {
+        "associated_groups": [
+            ": Magecart Group 6",
+            "ITG08",
+            "Skeleton Spider"
+        ]
+    },
+    "apt_description": [
+        "FIN6is a cyber crime group that has stolen payment card data and sold it for profit on underground marketplaces. This group has aggressively targeted and compromised point of sale (PoS) systems in the hospitality and retail sectors.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1134",
         "T1087",

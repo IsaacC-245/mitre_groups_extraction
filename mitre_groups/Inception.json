@@ -1,5 +1,19 @@
 {
     "threat_actor": "Inception",
+    "group_id": "G0100",
+    "associated_groups": {
+        "associated_groups": [
+            ": Inception Framework",
+            "Cloud Atlas"
+        ]
+    },
+    "apt_description": [
+        "Inceptionis a cyber espionage group active since at least 2014. The group has targeted multiple industries and governmental entities primarily in Russia, but has also been active in the United States and throughout Europe, Asia, Africa, and the Middle East.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "08 May 2020",
+        "last_modified_date": "12 October 2021"
+    },
     "capability": [
         "T1071",
         "T1071.001",

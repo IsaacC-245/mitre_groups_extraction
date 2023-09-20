@@ -1,5 +1,18 @@
 {
     "threat_actor": "APT17",
+    "group_id": "G0025",
+    "associated_groups": {
+        "associated_groups": [
+            ": Deputy Dog"
+        ]
+    },
+    "apt_description": [
+        "APT17is a China-based threat group that has conducted network intrusions against U.S. government entities, the defense industry, law firms, information technology companies, mining companies, and non-government organizations.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "13 October 2020"
+    },
     "capability": [
         "T1583",
         "T1583.006",

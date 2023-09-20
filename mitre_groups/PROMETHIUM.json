@@ -1,5 +1,18 @@
 {
     "threat_actor": "PROMETHIUM",
+    "group_id": "G0056",
+    "associated_groups": {
+        "associated_groups": [
+            ": StrongPity"
+        ]
+    },
+    "apt_description": [
+        "PROMETHIUMis an activity group focused on espionage that has been active since at least 2012. The group has conducted operations globally with a heavy emphasis on Turkish targets.PROMETHIUMhas demonstrated similarity to another activity group calledNEODYMIUMdue to overlapping victim and campaign characteristics.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "16 January 2018",
+        "last_modified_date": "22 October 2020"
+    },
     "capability": [
         "T1547",
         "T1547.001",

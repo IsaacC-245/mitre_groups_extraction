@@ -1,5 +1,24 @@
 {
     "threat_actor": "Ke3chang",
+    "group_id": "G0004",
+    "associated_groups": {
+        "associated_groups": [
+            ": APT15",
+            "Mirage",
+            "Vixen Panda",
+            "GREF",
+            "Playful Dragon",
+            "RoyalAPT",
+            "NICKEL"
+        ]
+    },
+    "apt_description": [
+        "Ke3changis a threat group attributed to actors operating out of China.Ke3changhas targeted oil, government, diplomatic, military, and NGOs in Central and South America, the Caribbean, Europe, and North America since at least 2010.[1][2][3][4]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "22 July 2022"
+    },
     "capability": [
         "T1087",
         "T1087.001",

@@ -1,5 +1,19 @@
 {
     "threat_actor": "BRONZE BUTLER",
+    "group_id": "G0060",
+    "associated_groups": {
+        "associated_groups": [
+            ": REDBALDKNIGHT",
+            "Tick"
+        ]
+    },
+    "apt_description": [
+        "BRONZE BUTLERis a cyber espionage group with likely Chinese origins that has been active since at least 2008. The group primarily targets Japanese organizations, particularly those in government, biotechnology, electronics manufacturing, and industrial chemistry.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "16 January 2018",
+        "last_modified_date": "12 October 2021"
+    },
     "capability": [
         "T1548",
         "T1548.002",

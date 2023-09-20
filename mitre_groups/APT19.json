@@ -1,5 +1,21 @@
 {
     "threat_actor": "APT19",
+    "group_id": "G0073",
+    "associated_groups": {
+        "associated_groups": [
+            ": Codoso",
+            "C0d0so0",
+            "Codoso Team",
+            "Sunshop Group"
+        ]
+    },
+    "apt_description": [
+        "APT19is a Chinese-based threat group that has targeted a variety of industries, including defense, finance, energy, pharmaceutical, telecommunications, high tech, education, manufacturing, and legal services. In 2017, a phishing campaign was used to target seven law and investment firms.[1]Some analysts trackAPT19andDeep Pandaas the same group, but it is unclear from open source information if the groups are the same.[2][3][4]"
+    ],
+    "version_data": {
+        "created_date": "17 October 2018",
+        "last_modified_date": "21 March 2023"
+    },
     "capability": [
         "T1071",
         "T1071.001",

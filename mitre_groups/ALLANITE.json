@@ -1,5 +1,18 @@
 {
     "threat_actor": "ALLANITE",
+    "group_id": "G1000",
+    "associated_groups": {
+        "associated_groups": [
+            ": Palmetto Fusion"
+        ]
+    },
+    "apt_description": [
+        "ALLANITEis a suspected Russian cyber espionage group, that has primarily targeted the electric utility sector within the United States and United Kingdom. The group's tactics and techniques are reportedly similar toDragonfly, althoughALLANITEs technical capabilities have not exhibited disruptive or destructive abilities. It has been suggested that the group maintains a presence in ICS for the purpose of gaining understanding of processes and to maintain persistence.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "24 May 2022"
+    },
     "capability": [
         "T0817",
         "T0852",

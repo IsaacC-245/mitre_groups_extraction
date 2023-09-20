@@ -1,5 +1,16 @@
 {
     "threat_actor": "Sowbug",
+    "group_id": "G0054",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Sowbugis a threat group that has conducted targeted attacks against organizations in South America and Southeast Asia, particularly government entities, since at least 2015.[1]"
+    ],
+    "version_data": {
+        "created_date": "16 January 2018",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1560",
         "T1560.001",

@@ -10,7 +10,7 @@ def mitre_urls():
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
-    side_nav = soup.select_one("#v-tab > div.side-nav-desktop-view.h-100 > div > div.sidenav-list")
+    side_nav = soup.select_one("#sidebar-collapse > div")
     group_links = side_nav.select("div.sidenav-head > a[href^='/groups/G']")
 
     url_list = []
@@ -63,7 +63,7 @@ def vulnerabilities(soup):
 def software(soup):
     resources = []
     tds = soup.select("td")
-    current_software = ""
+    # current_software = ""
     for td in tds:
         text = td.get_text().strip()
         if text.startswith("S") and text[1:].isdigit():
@@ -76,41 +76,34 @@ def software(soup):
     return resources
 
 
-def apt_summary(soup):
-    info = {}
+def group_id(soup):
+    return soup.select_one(".card-title:contains('ID:')").next_sibling.strip()
 
-    group_name = soup.select_one("h1").text.strip()
-    group_description_element = soup.select_one("div.main-content > p")
-    group_description = group_description_element.text.strip() if group_description_element else ""
-    info["group_name"] = group_name
-    info["group_description"] = group_description
 
-    group_id = soup.select_one(".card-title:contains('ID:')").next_sibling.strip()
-    info["group_id"] = group_id
-
+def associated_groups_or_name(soup):
+    group_names = {}
     associated_groups_element = soup.select_one(".card-title:contains('Associated Groups')")
     if associated_groups_element:
         associated_groups = associated_groups_element.next_sibling.strip()
-        info["associated_groups"] = [group.strip() for group in associated_groups.split(',')]
+        group_names["associated_groups"] = [group.strip() for group in associated_groups.split(',')]
     else:
-        info["associated_groups"] = []
+        return []
 
-    contributors_element = soup.select_one(".card-title:contains('Contributors')")
-    if contributors_element:
-        contributors = contributors_element.next_sibling.strip()
-        info["contributors"] = [contributor.strip() for contributor in contributors.split(';')]
-    else:
-        info["contributors"] = []
+    return group_names
 
-    version = soup.select_one(".card-title:contains('Version')").next_sibling.strip()
+
+def version_data(soup):
+    info = {}
+    # version = soup.select_one(".card-title:contains('Version')").next_sibling.strip()
     created_date = soup.select_one(".card-title:contains('Created:')").next_sibling.strip()
     last_modified_date = soup.select_one(".card-title:contains('Last Modified:')").next_sibling.strip()
-    info["version"] = version
+    # info["version"] = version
     info["created_date"] = created_date
     info["last_modified_date"] = last_modified_date
 
-    # Extract all the paragraphs within the "description-body" class
-    paragraphs = soup.select(".description-body > p")
-    info["description"] = [p.get_text(strip=True) for p in paragraphs]
-
     return info
+
+
+def apt_description(soup):
+    paragraphs = soup.select(".description-body > p")
+    return [p.get_text(strip=True) for p in paragraphs]

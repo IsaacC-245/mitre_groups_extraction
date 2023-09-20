@@ -1,5 +1,18 @@
 {
     "threat_actor": "Silence",
+    "group_id": "G0091",
+    "associated_groups": {
+        "associated_groups": [
+            ": Whisper Spider"
+        ]
+    },
+    "apt_description": [
+        "Silenceis a financially motivated threat actor targeting financial institutions in different countries. The group was first seen in June 2016. Their main targets reside in Russia, Ukraine, Belarus, Azerbaijan, Poland and Kazakhstan. They compromised various banking systems, including the Russian Central Bank's Automated Workstation Client, ATMs, and card processing.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "24 May 2019",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1547",
         "T1547.001",

@@ -1,5 +1,16 @@
 {
     "threat_actor": "Scarlet Mimic",
+    "group_id": "G0029",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Scarlet Mimicis a threat group that has targeted minority rights activists. This group has not been directly linked to a government source, but the group's motivations appear to overlap with those of the Chinese government. While there is some overlap between IP addresses used byScarlet MimicandPutter Panda, it has not been concluded that the groups are the same.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1036",
         "T1036.002"

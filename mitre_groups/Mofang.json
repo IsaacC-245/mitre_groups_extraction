@@ -1,5 +1,16 @@
 {
     "threat_actor": "Mofang",
+    "group_id": "G0103",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Mofangis a likely China-based cyber espionage group, named for its frequent practice of imitating a victim's infrastructure. This adversary has been observed since at least May 2012 conducting focused attacks against government and critical infrastructure in Myanmar, as well as several other countries and sectors including military, automobile, and weapons industries.[1]"
+    ],
+    "version_data": {
+        "created_date": "12 May 2020",
+        "last_modified_date": "29 May 2020"
+    },
     "capability": [
         "T1027",
         "T1566",

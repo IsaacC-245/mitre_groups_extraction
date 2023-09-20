@@ -1,5 +1,16 @@
 {
     "threat_actor": "SideCopy",
+    "group_id": "G1008",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "SideCopyis a Pakistani threat group that has primarily targeted South Asian countries, including Indian and Afghani government personnel, since at least 2019.SideCopy's name comes from its infection chain that tries to mimic that ofSidewinder, a suspected Indian threat group.[1]"
+    ],
+    "version_data": {
+        "created_date": "07 August 2022",
+        "last_modified_date": "24 October 2022"
+    },
     "capability": [
         "T1059",
         "T1059.005",

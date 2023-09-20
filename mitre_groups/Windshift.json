@@ -1,5 +1,18 @@
 {
     "threat_actor": "Windshift",
+    "group_id": "G0112",
+    "associated_groups": {
+        "associated_groups": [
+            ": Bahamut"
+        ]
+    },
+    "apt_description": [
+        "Windshiftis a threat group that has been active since at least 2017, targeting specific individuals for surveillance in government departments and critical infrastructure across the Middle East.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "25 June 2020",
+        "last_modified_date": "26 April 2021"
+    },
     "capability": [
         "T1071",
         "T1071.001",

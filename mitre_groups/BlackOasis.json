@@ -1,5 +1,16 @@
 {
     "threat_actor": "BlackOasis",
+    "group_id": "G0063",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "BlackOasisis a Middle Eastern threat group that is believed to be a customer of Gamma Group. The group has shown interest in prominent figures in the United Nations, as well as opposition bloggers, activists, regional news correspondents, and think tanks.[1][2]A group known by Microsoft asNEODYMIUMis reportedly associated closely withBlackOasisoperations, but evidence that the group names are aliases has not been identified.[3]"
+    ],
+    "version_data": {
+        "created_date": "18 April 2018",
+        "last_modified_date": "17 October 2018"
+    },
     "capability": [
         "T1027"
     ],

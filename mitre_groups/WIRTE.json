@@ -1,5 +1,16 @@
 {
     "threat_actor": "WIRTE",
+    "group_id": "G0090",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "WIRTEis a threat group that has been active since at least August 2018.WIRTEhas targeted government, diplomatic, financial, military, legal, and technology organizations in the Middle East and Europe.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "24 May 2019",
+        "last_modified_date": "15 April 2022"
+    },
     "capability": [
         "T1071",
         "T1071.001",

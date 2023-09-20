@@ -1,5 +1,16 @@
 {
     "threat_actor": "BackdoorDiplomacy",
+    "group_id": "G0135",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "BackdoorDiplomacyis a cyber espionage threat group that has been active since at least 2017.BackdoorDiplomacyhas targeted Ministries of Foreign Affairs and telecommunication companies in Africa, Europe, the Middle East, and Asia.[1]"
+    ],
+    "version_data": {
+        "created_date": "21 September 2021",
+        "last_modified_date": "18 October 2021"
+    },
     "capability": [
         "T1074",
         "T1074.001",

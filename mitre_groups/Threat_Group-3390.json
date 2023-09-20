@@ -1,5 +1,24 @@
 {
     "threat_actor": "Threat Group-3390",
+    "group_id": "G0027",
+    "associated_groups": {
+        "associated_groups": [
+            ": Earth Smilodon",
+            "TG-3390",
+            "Emissary Panda",
+            "BRONZE UNION",
+            "APT27",
+            "Iron Tiger",
+            "LuckyMouse"
+        ]
+    },
+    "apt_description": [
+        "Threat Group-3390is a Chinese threat group that has extensively used strategic Web compromises to target victims.[1]The group has been active since at least 2010 and has targeted organizations in the aerospace, government, defense, technology, energy, manufacturing and gambling/betting sectors.[2][3][4]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "29 March 2023"
+    },
     "capability": [
         "T1548",
         "T1548.002",

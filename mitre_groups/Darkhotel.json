@@ -1,5 +1,18 @@
 {
     "threat_actor": "Darkhotel",
+    "group_id": "G0012",
+    "associated_groups": {
+        "associated_groups": [
+            ": DUBNIUM"
+        ]
+    },
+    "apt_description": [
+        "Darkhotelis a suspected South Korean threat group that has targeted victims primarily in East Asia since at least 2004. The group's name is based on cyber espionage operations conducted via hotel Internet networks against traveling executives and other select guests.Darkhotelhas also conducted spearphishing campaigns and infected victims through peer-to-peer and file sharing networks.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "19 October 2022"
+    },
     "capability": [
         "T1547",
         "T1547.001",

@@ -1,5 +1,23 @@
 {
     "threat_actor": "Ember Bear",
+    "group_id": "G1003",
+    "associated_groups": {
+        "associated_groups": [
+            ": Saint Bear",
+            "UNC2589",
+            "UAC-0056",
+            "Lorec53",
+            "Lorec Bear",
+            "Bleeding Bear"
+        ]
+    },
+    "apt_description": [
+        "Ember Bearis a suspected Russian state-sponsored cyber espionage group that has been active since at least March 2021.Ember Bearhas primarily focused their operations against Ukraine and Georgia, but has also targeted Western European and North American foreign ministries, pharmaceutical companies, and financial sector organizations. Security researchers assessEmber Bearlikely conducted theWhisperGatedestructive wiper attacks against Ukraine in early 2022.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "09 June 2022",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1059",
         "T1059.001",

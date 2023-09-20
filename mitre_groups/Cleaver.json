@@ -1,5 +1,19 @@
 {
     "threat_actor": "Cleaver",
+    "group_id": "G0003",
+    "associated_groups": {
+        "associated_groups": [
+            ": Threat Group 2889",
+            "TG-2889"
+        ]
+    },
+    "apt_description": [
+        "Cleaveris a threat group that has been attributed to Iranian actors and is responsible for activity tracked as Operation Cleaver.[1]Strong circumstantial evidence suggests Cleaver is linked to Threat Group 2889 (TG-2889).[2]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "22 July 2022"
+    },
     "capability": [
         "T1557",
         "T1557.002",

@@ -1,5 +1,19 @@
 {
     "threat_actor": "TA551",
+    "group_id": "G0127",
+    "associated_groups": {
+        "associated_groups": [
+            ": GOLD CABIN",
+            "Shathak"
+        ]
+    },
+    "apt_description": [
+        "TA551is a financially-motivated threat group that has been active since at least 2018.[1]The group has primarily targeted English, German, Italian, and Japanese speakers through email-based malware distribution campaigns.[2]"
+    ],
+    "version_data": {
+        "created_date": "19 March 2021",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1071",
         "T1071.001",

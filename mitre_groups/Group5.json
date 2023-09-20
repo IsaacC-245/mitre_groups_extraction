@@ -1,5 +1,16 @@
 {
     "threat_actor": "Group5",
+    "group_id": "G0043",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Group5is a threat group with a suspected Iranian nexus, though this attribution is not definite. The group has targeted individuals connected to the Syrian opposition via spearphishing and watering holes, normally using Syrian and Iranian themes.Group5has used two commonly available remote access tools (RATs),njRATandNanoCore, as well as an Android RAT, DroidJack.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1070",
         "T1070.004",

@@ -1,5 +1,16 @@
 {
     "threat_actor": "Bouncing Golf",
+    "group_id": "G0097",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Bouncing Golfis a cyberespionage campaign targeting Middle Eastern countries.[1]"
+    ],
+    "version_data": {
+        "created_date": "27 January 2020",
+        "last_modified_date": "26 March 2020"
+    },
     "capability": [],
     "resources": [
         "S0421"

@@ -1,5 +1,18 @@
 {
     "threat_actor": "Leafminer",
+    "group_id": "G0077",
+    "associated_groups": {
+        "associated_groups": [
+            ": Raspite"
+        ]
+    },
+    "apt_description": [
+        "Leafmineris an Iranian threat group that has targeted government organizations and business entities in the Middle East since at least early 2017.[1]"
+    ],
+    "version_data": {
+        "created_date": "17 October 2018",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1110",
         "T1110.003",

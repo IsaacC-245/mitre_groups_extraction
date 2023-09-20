@@ -1,5 +1,16 @@
 {
     "threat_actor": "GCMAN",
+    "group_id": "G0036",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "GCMANis a threat group that focuses on targeting banks for the purpose of transferring money to e-currency services.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1021",
         "T1021.004",

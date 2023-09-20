@@ -1,5 +1,21 @@
 {
     "threat_actor": "Tonto Team",
+    "group_id": "G0131",
+    "associated_groups": {
+        "associated_groups": [
+            ": Earth Akhlut",
+            "BRONZE HUNTLEY",
+            "CactusPete",
+            "Karma Panda"
+        ]
+    },
+    "apt_description": [
+        "Tonto Teamis a suspected Chinese state-sponsored cyber espionage threat group that has primarily targeted South Korea, Japan, Taiwan, and the United States since at least 2009; by 2020 they expanded operations to include other Asian as well as Eastern European countries.Tonto Teamhas targeted government, military, energy, mining, financial, education, healthcare, and technology organizations, including through the Heartbeat Campaign (2009-2012) and Operation Bitter Biscuit (2017).[1][2][3][4][5][6]"
+    ],
+    "version_data": {
+        "created_date": "05 May 2021",
+        "last_modified_date": "27 January 2022"
+    },
     "capability": [
         "T1059",
         "T1059.001",

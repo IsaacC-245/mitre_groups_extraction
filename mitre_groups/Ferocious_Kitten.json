@@ -1,5 +1,16 @@
 {
     "threat_actor": "Ferocious Kitten",
+    "group_id": "G0137",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Ferocious Kittenis a threat group that has primarily targeted Persian-speaking individuals in Iran since at least 2015.[1]"
+    ],
+    "version_data": {
+        "created_date": "28 September 2021",
+        "last_modified_date": "25 October 2021"
+    },
     "capability": [
         "T1583",
         "T1583.001",

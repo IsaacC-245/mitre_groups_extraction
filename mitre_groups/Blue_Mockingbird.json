@@ -1,5 +1,16 @@
 {
     "threat_actor": "Blue Mockingbird",
+    "group_id": "G0108",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Blue Mockingbirdis a cluster of observed activity involving Monero cryptocurrency-mining payloads in dynamic-link library (DLL) form on Windows systems. The earliest observed Blue Mockingbird tools were created in December 2019.[1]"
+    ],
+    "version_data": {
+        "created_date": "26 May 2020",
+        "last_modified_date": "12 October 2021"
+    },
     "capability": [
         "T1134",
         "T1059",

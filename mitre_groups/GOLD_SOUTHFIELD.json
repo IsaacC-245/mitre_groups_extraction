@@ -1,5 +1,18 @@
 {
     "threat_actor": "GOLD SOUTHFIELD",
+    "group_id": "G0115",
+    "associated_groups": {
+        "associated_groups": [
+            ": Pinchy Spider"
+        ]
+    },
+    "apt_description": [
+        "GOLD SOUTHFIELDis a financially motivated threat group active since at least 2018 that operates theREvilRansomware-as-a Service (RaaS).GOLD SOUTHFIELDprovides backend infrastructure for affiliates recruited on underground forums to perpetrate high value deployments. By early 2020,GOLD SOUTHFIELDstarted capitalizing on the new trend of stealing data and further extorting the victim to pay for their data to not get publicly leaked.[1][2][3][4]"
+    ],
+    "version_data": {
+        "created_date": "22 September 2020",
+        "last_modified_date": "28 March 2023"
+    },
     "capability": [
         "T1059",
         "T1059.001",

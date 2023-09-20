@@ -1,5 +1,16 @@
 {
     "threat_actor": "DarkVishnya",
+    "group_id": "G0105",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "DarkVishnyais a financially motivated threat actor targeting financial institutions in Eastern Europe. In 2017-2018 the group attacked at least 8 banks in this region.[1]"
+    ],
+    "version_data": {
+        "created_date": "15 May 2020",
+        "last_modified_date": "12 October 2021"
+    },
     "capability": [
         "T1110",
         "T1059",

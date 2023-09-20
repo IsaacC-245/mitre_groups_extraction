@@ -1,5 +1,20 @@
 {
     "threat_actor": "Elderwood",
+    "group_id": "G0066",
+    "associated_groups": {
+        "associated_groups": [
+            ": Elderwood Gang",
+            "Beijing Group",
+            "Sneaky Panda"
+        ]
+    },
+    "apt_description": [
+        "Elderwoodis a suspected Chinese cyber espionage group that was reportedly responsible for the 2009 Google intrusion known as Operation Aurora.[1]The group has targeted defense organizations, supply chain manufacturers, human rights and nongovernmental organizations (NGOs), and IT service providers.[2][3]"
+    ],
+    "version_data": {
+        "created_date": "18 April 2018",
+        "last_modified_date": "02 March 2021"
+    },
     "capability": [
         "T1189",
         "T1203",

@@ -1,5 +1,21 @@
 {
     "threat_actor": "Transparent Tribe",
+    "group_id": "G0134",
+    "associated_groups": {
+        "associated_groups": [
+            ": COPPER FIELDSTONE",
+            "APT36",
+            "Mythic Leopard",
+            "ProjectM"
+        ]
+    },
+    "apt_description": [
+        "Transparent Tribeis a suspected Pakistan-based threat group that has been active since at least 2013, primarily targeting diplomatic, defense, and research organizations in India and Afghanistan.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "02 September 2021",
+        "last_modified_date": "22 September 2022"
+    },
     "capability": [
         "T1583",
         "T1583.001",

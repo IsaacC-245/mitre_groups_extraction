@@ -1,5 +1,16 @@
 {
     "threat_actor": "admin@338",
+    "group_id": "G0018",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "admin@338is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such asPoisonIvy, as well as some non-public backdoors.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "18 March 2020"
+    },
     "capability": [
         "T1087",
         "T1087.001",

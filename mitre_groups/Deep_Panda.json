@@ -1,5 +1,22 @@
 {
     "threat_actor": "Deep Panda",
+    "group_id": "G0009",
+    "associated_groups": {
+        "associated_groups": [
+            ": Shell Crew",
+            "WebMasters",
+            "KungFu Kittens",
+            "PinkPanther",
+            "Black Vine"
+        ]
+    },
+    "apt_description": [
+        "Deep Pandais a suspected Chinese threat group known to target many industries, including government, defense, financial, and telecommunications.[1]The intrusion into healthcare company Anthem has been attributed toDeep Panda.[2]This group is also known as Shell Crew, WebMasters, KungFu Kittens, and PinkPanther.[3]Deep Pandaalso appears to be known as Black Vine based on the attribution of both group names to the Anthem intrusion.[4]Some analysts trackDeep PandaandAPT19as the same group, but it is unclear from open source information if the groups are the same.[5]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "20 July 2022"
+    },
     "capability": [
         "T1059",
         "T1059.001",

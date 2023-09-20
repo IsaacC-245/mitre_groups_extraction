@@ -1,5 +1,16 @@
 {
     "threat_actor": "Gallmaker",
+    "group_id": "G0084",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Gallmakeris a cyberespionage group that has targeted victims in the Middle East and has been active since at least December 2017. The group has mainly targeted victims in the defense, military, and government sectors.[1]"
+    ],
+    "version_data": {
+        "created_date": "30 January 2019",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1560",
         "T1560.001",

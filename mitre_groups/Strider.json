@@ -1,5 +1,18 @@
 {
     "threat_actor": "Strider",
+    "group_id": "G0041",
+    "associated_groups": {
+        "associated_groups": [
+            ": ProjectSauron"
+        ]
+    },
+    "apt_description": [
+        "Strideris a threat group that has been active since at least 2011 and has targeted victims in Russia, China, Sweden, Belgium, Iran, and Rwanda.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "29 June 2020"
+    },
     "capability": [
         "T1564",
         "T1564.005",

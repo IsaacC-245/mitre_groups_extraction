@@ -1,5 +1,20 @@
 {
     "threat_actor": "Mustang Panda",
+    "group_id": "G0129",
+    "associated_groups": {
+        "associated_groups": [
+            ": TA416",
+            "RedDelta",
+            "BRONZE PRESIDENT"
+        ]
+    },
+    "apt_description": [
+        "Mustang Pandais a China-based cyber espionage threat actor that was first observed in 2017 but may have been conducting operations since at least 2014.Mustang Pandahas targeted government entities, nonprofits, religious, and other non-governmental organizations in the U.S., Europe, Mongolia, Myanmar, Pakistan, and Vietnam, among others.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "12 April 2021",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1583",
         "T1583.001",

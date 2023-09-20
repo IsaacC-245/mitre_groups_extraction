@@ -1,5 +1,16 @@
 {
     "threat_actor": "LuminousMoth",
+    "group_id": "G1014",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "LuminousMothis a Chinese-speaking cyber espionage group that has been active since at least October 2020.LuminousMothhas targeted high-profile organizations, including government entities, in Myanmar, the Philippines, Thailand, and other parts of Southeast Asia. Some security researchers have concluded there is a connection betweenLuminousMothandMustang Pandabased on similar targeting and TTPs, as well as network infrastructure overlaps.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "23 February 2023",
+        "last_modified_date": "17 April 2023"
+    },
     "capability": [
         "T1557",
         "T1557.002",

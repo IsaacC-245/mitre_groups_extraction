@@ -1,5 +1,17 @@
 {
     "threat_actor": "Naikon",
+    "group_id": "G0019",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Naikonis assessed to be a state-sponsored cyber espionage group attributed to the Chinese People\u2019s Liberation Army\u2019s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020).[1]Active since at least 2010,Naikonhas primarily conducted operations against government, military, and civil organizations in Southeast Asia, as well as against international bodies such as the United Nations Development Programme (UNDP) and the Association of Southeast Asian Nations (ASEAN).[1][2]",
+        "WhileNaikonshares some characteristics withAPT30, the two groups do not appear to be exact matches.[3]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "19 August 2021"
+    },
     "capability": [
         "T1547",
         "T1547.001",

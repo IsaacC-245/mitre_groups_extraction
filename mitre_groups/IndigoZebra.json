@@ -1,5 +1,16 @@
 {
     "threat_actor": "IndigoZebra",
+    "group_id": "G0136",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "IndigoZebrais a suspected Chinese cyber espionage group that has been targeting Central Asian governments since at least 2014.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "24 September 2021",
+        "last_modified_date": "16 October 2021"
+    },
     "capability": [
         "T1583",
         "T1583.001",

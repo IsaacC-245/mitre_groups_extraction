@@ -1,5 +1,23 @@
 {
     "threat_actor": "Lazarus Group",
+    "group_id": "G0032",
+    "associated_groups": {
+        "associated_groups": [
+            ": Labyrinth Chollima",
+            "HIDDEN COBRA",
+            "Guardians of Peace",
+            "ZINC",
+            "NICKEL ACADEMY"
+        ]
+    },
+    "apt_description": [
+        "Lazarus Groupis a North Korean state-sponsored cyber threat group that has been attributed to the Reconnaissance General Bureau.[1][2]The group has been active since at least 2009 and was reportedly responsible for the November 2014 destructive wiper attack against Sony Pictures Entertainment as part of a campaign named Operation Blockbuster by Novetta. Malware used byLazarus Groupcorrelates to other reported campaigns, including Operation Flame, Operation 1Mission, Operation Troy, DarkSeoul, and Ten Days of Rain.[3]",
+        "North Korean group definitions are known to have significant overlap, and some security researchers report all North Korean state-sponsored cyber activity under the nameLazarus Groupinstead of tracking clusters or subgroups, such asAndariel,APT37,APT38, andKimsuky."
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2023"
+    },
     "capability": [
         "T1134",
         "T1134.002",

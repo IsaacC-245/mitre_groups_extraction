@@ -1,5 +1,19 @@
 {
     "threat_actor": "Sidewinder",
+    "group_id": "G0121",
+    "associated_groups": {
+        "associated_groups": [
+            ": T-APT-04",
+            "Rattlesnake"
+        ]
+    },
+    "apt_description": [
+        "Sidewinderis a suspected Indian threat actor group that has been active since at least 2012. They have been observed targeting government, military, and business entities throughout Asia, primarily focusing on Pakistan, China, Nepal, and Afghanistan.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "27 January 2021",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1071",
         "T1071.001",

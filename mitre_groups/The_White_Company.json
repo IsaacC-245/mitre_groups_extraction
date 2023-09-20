@@ -1,5 +1,16 @@
 {
     "threat_actor": "The White Company",
+    "group_id": "G0089",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "The White Companyis a likely state-sponsored threat actor with advanced capabilities. From 2017 through 2018, the group led an espionage campaign called Operation Shaheen targeting government and military organizations in Pakistan.[1]"
+    ],
+    "version_data": {
+        "created_date": "02 May 2019",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1203",
         "T1070",

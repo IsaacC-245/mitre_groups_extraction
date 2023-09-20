@@ -1,5 +1,18 @@
 {
     "threat_actor": "HAFNIUM",
+    "group_id": "G0125",
+    "associated_groups": {
+        "associated_groups": [
+            ": Operation Exchange Marauder"
+        ]
+    },
+    "apt_description": [
+        "HAFNIUMis a likely state-sponsored cyber espionage group operating out of China that has been active since at least January 2021.HAFNIUMprimarily targets entities in the US across a number of industry sectors, including infectious disease researchers, law firms, higher education institutions, defense contractors, policy think tanks, and NGOs.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "03 March 2021",
+        "last_modified_date": "10 April 2023"
+    },
     "capability": [
         "T1098",
         "T1583",

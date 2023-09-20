@@ -1,5 +1,18 @@
 {
     "threat_actor": "TEMP.Veles",
+    "group_id": "G0088",
+    "associated_groups": {
+        "associated_groups": [
+            ": XENOTIME"
+        ]
+    },
+    "apt_description": [
+        "TEMP.Velesis a Russia-based threat group that has targeted critical infrastructure. The group has been observed utilizingTRITON, a malware framework designed to manipulate industrial safety systems.[1][2][3]"
+    ],
+    "version_data": {
+        "created_date": "16 April 2019",
+        "last_modified_date": "30 November 2022"
+    },
     "capability": [
         "T1583",
         "T1583.003",

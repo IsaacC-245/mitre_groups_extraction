@@ -1,5 +1,16 @@
 {
     "threat_actor": "EXOTIC LILY",
+    "group_id": "G1011",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "EXOTIC LILYis a financially motivated group that has been closely linked withWizard Spiderand the deployment of ransomware includingContiandDiavol.EXOTIC LILYmay be acting as an initial access broker for other malicious actors, and has targeted a wide range of industries including IT, cybersecurity, and healthcare since at least September 2021.[1]"
+    ],
+    "version_data": {
+        "created_date": "18 August 2022",
+        "last_modified_date": "24 October 2022"
+    },
     "capability": [
         "T1583",
         "T1583.001",

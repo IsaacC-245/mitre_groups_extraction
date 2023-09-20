@@ -1,5 +1,18 @@
 {
     "threat_actor": "Volatile Cedar",
+    "group_id": "G0123",
+    "associated_groups": {
+        "associated_groups": [
+            ": Lebanese Cedar"
+        ]
+    },
+    "apt_description": [
+        "Volatile Cedaris a Lebanese threat group that has targeted individuals, companies, and institutions worldwide.Volatile Cedarhas been operating since 2012 and is motivated by political and ideological interests.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "08 February 2021",
+        "last_modified_date": "20 April 2022"
+    },
     "capability": [
         "T1595",
         "T1595.002",

@@ -1,5 +1,16 @@
 {
     "threat_actor": "LazyScripter",
+    "group_id": "G0140",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "LazyScripteris threat group that has mainly targeted the airlines industry since at least 2018, primarily using open-source toolsets.[1]"
+    ],
+    "version_data": {
+        "created_date": "24 November 2021",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1583",
         "T1583.001",

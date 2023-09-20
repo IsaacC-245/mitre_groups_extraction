@@ -1,5 +1,19 @@
 {
     "threat_actor": "Putter Panda",
+    "group_id": "G0024",
+    "associated_groups": {
+        "associated_groups": [
+            ": APT2",
+            "MSUpdater"
+        ]
+    },
+    "apt_description": [
+        "Putter Pandais a Chinese threat group that has been attributed to Unit 61486 of the 12th Bureau of the PLA\u2019s 3rd General Staff Department (GSD).[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "30 March 2020"
+    },
     "capability": [
         "T1547",
         "T1547.001",

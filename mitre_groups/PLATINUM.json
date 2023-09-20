@@ -1,5 +1,16 @@
 {
     "threat_actor": "PLATINUM",
+    "group_id": "G0068",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "PLATINUMis an activity group that has targeted victims since at least 2009. The group has focused on targets associated with governments and related organizations in South and Southeast Asia.[1]"
+    ],
+    "version_data": {
+        "created_date": "18 April 2018",
+        "last_modified_date": "22 April 2021"
+    },
     "capability": [
         "T1189",
         "T1068",

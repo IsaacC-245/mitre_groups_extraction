@@ -1,5 +1,16 @@
 {
     "threat_actor": "DarkHydrus",
+    "group_id": "G0079",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "DarkHydrusis a threat group that has targeted government agencies and educational institutions in the Middle East since at least 2016. The group heavily leverages open-source tools and custom payloads for carrying out attacks.[1][2]"
+    ],
+    "version_data": {
+        "created_date": "17 October 2018",
+        "last_modified_date": "12 October 2021"
+    },
     "capability": [
         "T1059",
         "T1059.001",

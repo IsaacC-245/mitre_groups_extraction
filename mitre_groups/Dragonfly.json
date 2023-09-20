@@ -1,5 +1,24 @@
 {
     "threat_actor": "Dragonfly",
+    "group_id": "G0035",
+    "associated_groups": {
+        "associated_groups": [
+            ": TEMP.Isotope",
+            "DYMALLOY",
+            "Berserk Bear",
+            "TG-4192",
+            "Crouching Yeti",
+            "IRON LIBERTY",
+            "Energetic Bear"
+        ]
+    },
+    "apt_description": [
+        "Dragonflyis a cyber espionage group that has been attributed to Russia's Federal Security Service (FSB) Center 16.[1][2]Active since at least 2010,Dragonflyhas targeted defense and aviation companies, government entities, companies related to industrial control systems, and critical infrastructure sectors worldwide through supply chain, spearphishing, and drive-by compromise attacks.[3][4][5][6][7][8][9]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "08 March 2023"
+    },
     "capability": [
         "T1087",
         "T1087.002",

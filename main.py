@@ -4,16 +4,14 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from extractions import mitre_urls, techniques, vulnerabilities, software, apt_summary
+from extractions import mitre_urls, techniques, vulnerabilities, software, group_id, associated_groups_or_name,\
+    version_data, apt_description
 
 url_list = mitre_urls()
 
 output_folder = "mitre_groups"
-summary_folder = "mitre_groups_summary"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
-if not os.path.exists(summary_folder):
-    os.makedirs(summary_folder)
 
 for index, link in enumerate(url_list, start=1):
     response = requests.get(link)
@@ -27,6 +25,10 @@ for index, link in enumerate(url_list, start=1):
 
     group_data = {
         "threat_actor": group_name,
+        "group_id": group_id(soup),
+        "associated_groups": associated_groups_or_name(soup),
+        "apt_description": apt_description(soup),
+        "version_data": version_data(soup),
         "capability": capability_list,
         "resources": resources_list,
         "vulnerabilities": vulnerabilities_list
@@ -39,13 +41,3 @@ for index, link in enumerate(url_list, start=1):
         json.dump(group_data, file, indent=4)
 
     print(f"APT data saved: {filepath}")
-
-    group_description = apt_summary(soup)
-
-    summary_filename = f"{group_name.replace(' ', '_')}_summary.json"
-    summary_filepath = os.path.join(summary_folder, summary_filename)
-
-    with open(summary_filepath, "w") as summary_file:
-        json.dump(group_description, summary_file, indent=4)
-
-    print(f"APT summary saved to: {summary_filepath}")

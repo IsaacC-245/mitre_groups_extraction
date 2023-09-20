@@ -1,5 +1,16 @@
 {
     "threat_actor": "Poseidon Group",
+    "group_id": "G0033",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Poseidon Groupis a Portuguese-speaking threat group that has been active since at least 2005. The group has a history of using information exfiltrated from victims to blackmail victim companies into contracting thePoseidon Groupas a security firm.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "18 March 2020"
+    },
     "capability": [
         "T1087",
         "T1087.001",

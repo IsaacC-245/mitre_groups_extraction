@@ -1,5 +1,25 @@
 {
     "threat_actor": "Turla",
+    "group_id": "G0010",
+    "associated_groups": {
+        "associated_groups": [
+            ": IRON HUNTER",
+            "Group 88",
+            "Belugasturgeon",
+            "Waterbug",
+            "WhiteBear",
+            "Snake",
+            "Krypton",
+            "Venomous Bear"
+        ]
+    },
+    "apt_description": [
+        "Turlais a Russian-based threat group that has infected victims in over 45 countries, spanning a range of industries including government, embassies, military, education, research and pharmaceutical companies since 2004. Heightened activity was seen in mid-2015.Turlais known for conducting watering hole and spearphishing campaigns and leveraging in-house tools and malware.Turla\u2019s espionage platform is mainly used against Windows machines, but has also been seen used against macOS and Linux machines.[1][2][3][4]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "22 March 2023"
+    },
     "capability": [
         "T1134",
         "T1134.002",

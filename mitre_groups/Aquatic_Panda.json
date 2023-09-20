@@ -1,5 +1,16 @@
 {
     "threat_actor": "Aquatic Panda",
+    "group_id": "G0143",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Aquatic Pandais a suspected China-based threat group with a dual mission of intelligence collection and industrial espionage. Active since at least May 2020,Aquatic Pandahas primarily targeted entities in the telecommunications, technology, and government sectors.[1]"
+    ],
+    "version_data": {
+        "created_date": "18 January 2022",
+        "last_modified_date": "21 March 2023"
+    },
     "capability": [
         "T1595",
         "T1595.002",

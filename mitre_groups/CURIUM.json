@@ -1,5 +1,16 @@
 {
     "threat_actor": "CURIUM",
+    "group_id": "G1012",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "CURIUMis an Iranian threat group first reported in November 2021 that has invested in building a relationship with potential targets via social media over a period of months to establish trust and confidence before sending malware. Security researchers noteCURIUMhas demonstrated great patience and persistence by chatting with potential targets daily and sending benign files to help lower their security consciousness.[1]"
+    ],
+    "version_data": {
+        "created_date": "13 January 2023",
+        "last_modified_date": "12 April 2023"
+    },
     "capability": [
         "T1005",
         "T1585",

@@ -1,5 +1,16 @@
 {
     "threat_actor": "Stealth Falcon",
+    "group_id": "G0038",
+    "associated_groups": {
+        "associated_groups": []
+    },
+    "apt_description": [
+        "Stealth Falconis a threat group that has conducted targeted spyware attacks against Emirati journalists, activists, and dissidents since at least 2012. Circumstantial evidence suggests there could be a link between this group and the United Arab Emirates (UAE) government, but that has not been confirmed.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "23 November 2020"
+    },
     "capability": [
         "T1071",
         "T1071.001",

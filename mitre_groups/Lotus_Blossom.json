@@ -1,5 +1,19 @@
 {
     "threat_actor": "Lotus Blossom",
+    "group_id": "G0030",
+    "associated_groups": {
+        "associated_groups": [
+            ": DRAGONFISH",
+            "Spring Dragon"
+        ]
+    },
+    "apt_description": [
+        "Lotus Blossomis a threat group that has targeted government and military organizations in Southeast Asia.[1]"
+    ],
+    "version_data": {
+        "created_date": "31 May 2017",
+        "last_modified_date": "25 March 2019"
+    },
     "capability": [],
     "resources": [
         "S0081",
